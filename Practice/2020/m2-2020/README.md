@@ -1,2 +1,2 @@
-## Link Source Prob
-- **Class F :** https://www.hackerrank.com/contests/sdf-m2
+## Link Source Prob Week 2
+- **Class F :** [Link Practice Class F](https://www.hackerrank.com/contests/sdf-m2)
